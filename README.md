@@ -7,17 +7,20 @@ Arsenic contamination of drinking water is a global issue affecting in the regio
 The system proposed will use a genetic circuit consisting of a promoter responsive to arsenic and a downstream reporter which produces an electroactive enzyme. The enzyme concentration will then be measured using amperometric detection methods allowing a quantitative measurement of arsenic concentration to be determined.
 
 
-## Software
+## Biological System
 
 Explain functionality of software components (if any) as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Ideally, this should be pseudo code or an abstract graphical representation of your code e.g entity relationship diagram. Consider adding a screenshot of your User Interface.
 
-## Hardware
+## Electrochemistry
 
 Explain how the hardware components (if any) of your project function as concisely as possible, including a short description of fabrication and assembly. Component suppliers and part numbers should be provided separately in a bill of materials, in a 'Hardware Folder'.
 
-## Installation, Maintenance and Testing Guide
+## Hardware
 
 Provide instructions on usage, describe a test scheme and show how to run the tests with code and hardware configuration examples with some representative results.
+
+## Datasharing
+
 
 ## License
 
