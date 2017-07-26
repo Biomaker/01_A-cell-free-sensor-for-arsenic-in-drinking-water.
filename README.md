@@ -6,6 +6,8 @@ Consider using [GitHub for desktop](https://desktop.github.com/), the user inter
 
 Lastly, follow [these](https://pages.github.com/) instructions if you want to style your github repository into a webpage like [so](https://biomakers.github.io/Example-repo/).
 
+![alt text](https://github.com/BioMakers/01_A-cell-free-sensor-for-arsenic-in-drinking-water./blob/master/Banner.png)
+
 ## Synopsis
 
 
