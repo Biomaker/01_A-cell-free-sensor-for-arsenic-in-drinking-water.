@@ -8,7 +8,12 @@ Lastly, follow [these](https://pages.github.com/) instructions if you want to st
 
 ## Synopsis
 
-A summary of your project. This is the 150 word description from your proposal. Include your project banner and photos of team members.
+
+
+Arsenic contamination of drinking water is a global issue affecting in the region of 150 million people. Currently, drinking water is predominantly tested via chemical sensors, which require toxic reagents, technical expertise and only produces qualitative results.  Developments in synthetic biology have shown that biological components can be engineered for heavy metal detection, but methods are limited by GM contamination risks and only provide qualitative readouts.  As such, an opportunity has been identified to develop a first-of -kind cell-free quantitative heavy metal sensor which uses the synthesis of an electroactive metabolic enzyme for amperometric quantification of arsenic concentrations. 
+
+The system proposed will use a genetic circuit consisting of a promoter responsive to arsenic and a downstream reporter which produces an electroactive enzyme. The enzyme concentration will then be measured using amperometric detection methods allowing a quantitative measurement of arsenic concentration to be determined.
+
 
 ## Software
 
