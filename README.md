@@ -3,7 +3,8 @@
 ## Synopsis
 
 Arsenic contamination of drinking water is a global issue affecting in the region of 150 million people.  Arsenic poisoning  is highly prevalent in countries surrounding the Himalayas such as India, Nepal, Bangladesh and Pakistan and arises from natural contamination of shallow tube wells.  Currently, drinking water is predominantly tested via chemical sensors, which require toxic reagents, technical expertise and only produces qualitative results. Developments in synthetic biology have shown that biological components can be engineered for heavy metal detection, but methods are limited by GM contamination risks and only provide qualitative readouts. As such, an opportunity has been identified to develop a first-of -kind cell-free quantitative arsenic sensor which uses the synthesis of an electroactive metabolic enzyme for amperometric quantification of arsenic concentrations.  This project was for a first proof of concept of such a sensor.
-The system proposed will use a genetic circuit consisting of a promoter responsive to arsenic and a downstream reporter which produces an electroactive enzyme. The enzyme concentration will then be measured using amperometric detection methods allowing a quantitative measurement of arsenic concentration to be determined.
+
+The system is based on a genetic circuit consisting of a promoter responsive to arsenic and a downstream reporter which produces an electroactive enzyme. The enzyme concentration will then be measured using amperometric detection methods allowing a quantitative measurement of arsenic concentration to be determined.
 
 
 
@@ -23,9 +24,7 @@ The repressor Pars arsR plasmid used was from the international Genetically Engi
 <img src="https://github.com/BioMakers/01_A-cell-free-sensor-for-arsenic-in-drinking-water./blob/master/Synthetic%20Biology%20System.png" width="400">
 
 ## Electrochemistry
-The arsenic sensor is based on the same principles and electrochemical readout as well-established glucose sensors but applied in reverse to detect GOx concentrations.  
-
-As such, such a system was adapted to a glucose oxidase sensor with fixed quantities of glucose and varied glucose oxidase.  Different detection methods were trialled, interference tests were then undertaken with cell free extract, iron (III), arsenic and Nepal well water and lastly improvements in terms of limit of detection and sample volume were investigated.  
+The arsenic sensor is based on the same principles and electrochemical readout as well-established glucose sensors but applied in reverse to detect GOx concentrations.  Such a system was adapted to a glucose oxidase sensor with fixed quantities of glucose and varied glucose oxidase.  Different detection methods were trialled, interference tests were then undertaken with cell free extract, iron (III), arsenic and Nepal well water and lastly improvements in terms of limit of detection and sample volume were investigated.  
 
 The figure below summarises the different trailed techniques for detection of the GOx enzyme.
 
