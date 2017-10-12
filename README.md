@@ -28,7 +28,7 @@ The arsenic sensor is based on the same principles and electrochemical readout a
 
 The figure below summarises the different trailed techniques for detection of the GOx enzyme.
 
-<img src="https://github.com/BioMakers/01_A-cell-free-sensor-for-arsenic-in-drinking-water./blob/master/Electrochemistry%20detection%20techniques.png" width="400">
+<img src="https://github.com/BioMakers/01_A-cell-free-sensor-for-arsenic-in-drinking-water./blob/master/Electrochemistry%20detection%20techniques.png" width="300">
 
 ## Electronics
 
